@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1Recursion/1Recursion.iml" filepath="$PROJECT_DIR$/1Recursion/1Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2HashTable/2HashTable.iml" filepath="$PROJECT_DIR$/2HashTable/2HashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3LinkedList/3LinkedList.iml" filepath="$PROJECT_DIR$/3LinkedList/3LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4StackAndQueue/4StackAndQueue.iml" filepath="$PROJECT_DIR$/4StackAndQueue/4StackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7BinaryTree/7BinaryTree.iml" filepath="$PROJECT_DIR$/7BinaryTree/7BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8Graph/8Graph.iml" filepath="$PROJECT_DIR$/8Graph/8Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodePath.iml" filepath="$PROJECT_DIR$/.idea/CodePath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UMPIREPractice/UMPIREPractice.iml" filepath="$PROJECT_DIR$/UMPIREPractice/UMPIREPractice.iml" />
+    </modules>
+  </component>
+</project>
